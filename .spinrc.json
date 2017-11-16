@@ -2,7 +2,7 @@
   "builders": {
     "web": {
       "stack": "web",
-      "entry": "./testing.js",
+      "entry": "./app.js",
       "openBrowser": true,
       "enabled": true
     }
